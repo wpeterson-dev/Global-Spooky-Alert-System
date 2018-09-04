@@ -1,0 +1,76 @@
+body 		{background-color: black;
+			 font-family: "Comic Sans MS", cursive, sans-serif;
+			 width: auto;
+			 color:white;
+			 border: 3px solid #fff;
+			 text-align: center;}
+	  
+h1, h2, nav, footer	
+			{text-align: center;}
+
+/*nav{padding:5px;
+	border-bottom: 3px solid #fff;}*/
+
+.button1	{background-color:red; 
+			 color:white; 
+			 text-shadow:1px 1px 1px #000; 
+			 font-family: Arial, Helvetica, sans-serif;
+			 font-size: 14px;}
+			 
+.button2	{background-color:orange; 
+			 color:white; 
+			 text-shadow:1px 1px 1px #000; 
+			 font-family: Arial, Helvetica, sans-serif;
+			 font-size: 14px;}
+			 
+.button3	{background-color:gold; 
+			 color:white; 
+			 text-shadow:1px 1px 1px #000; 
+			 font-family: Arial, Helvetica, sans-serif;
+			 font-size: 14px;}
+			 
+.button4	{background-color:blue; 
+		     color:white; 
+			 text-shadow:1px 1px 1px #000; 
+			 font-family: Arial, Helvetica, sans-serif;
+			 font-size: 14px;}
+			 
+.button5	{background-color:green; 
+			 color:white; 
+			 text-shadow:1px 1px 1px #000; 
+			 font-family: Arial, Helvetica, sans-serif;
+			 font-size: 14px;}
+
+.button6	{background-color:SlateGray; 
+			 color:white;  
+			 font-family: Arial, Helvetica, sans-serif;
+			 font-size: 14px;}
+			 
+.copyright	{font-size: 8px;}
+	
+a:link 		{color:white;
+			 text-shadow:1px 1px 1px #000;
+			 text-decoration:none}
+		
+a:visited 	{color:darkgrey;
+			 text-decoration:none}
+		   
+a:hover 	{color:white; 
+			 text-decoration:none}
+			 
+a:active 	{color:white; 
+			 text-decoration:none}
+	
+img			{display:block;
+			 padding-top:5px;
+			 margin:auto;}
+
+header		{position: relative;
+		     border-bottom: 3px solid #fff;
+			 display: block;}
+	
+footer		{position: relative;
+			 margin-top:2px;
+			 padding:5px;
+			 top:2px;
+			 border-top: 3px solid #fff;}
